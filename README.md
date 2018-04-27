@@ -6,6 +6,7 @@
 * [Mythril](https://github.com/b-mueller/mythril/) - Reversing and bug hunting framework for the Ethereum blockchain.
 * [Oyente](https://github.com/melonproject/oyente) - Analyze Ethereum code to find common vulnerabilities, based on this [paper](http://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates a DOT graph that visualizes function control flow of a Solidity contract and highlights potential security vulnerabilities.
+* [SmartCheck](https://tool.smartdec.net/?_ga=2.64759655.936982906.1517318445-742351007.1503318275) - checks smart contract code written in Solidity for security vulnerabilities and bad practices.
 
 ### Test Coverage
 
